@@ -63,3 +63,24 @@ glass2 = "juice"
 swap = glass1
 glass1 = glass2
 glass2 = swap
+
+"""
+Lesson Extension: Variable Naming Rules
+
+Rules:
+1. Variable names must be descriptive.
+2. No spaces between words.
+3. Cannot start with numbers.
+4. Cannot use Python keywords (e.g., print, input).
+5. Keep names simple and clear.
+"""
+
+# --- Valid Variable Naming Example ---
+name = "Angela"
+length_of_name = len(name)
+print(length_of_name)
+
+# --- Invalid Examples (Commented) ---
+# 1name = "Angela"       # Cannot start with a number
+# my name = "Angela"     # Cannot contain spaces
+# print = "Angela"       # Cannot use reserved keyword
