@@ -39,3 +39,24 @@
 - Separated calculation logic from final output
 - Built a complete decision-based billing system
 
+------------------------------------------------------
+
+## Part 05 – Logical Operators
+
+### What I Learned in Practice
+- Combined conditions using and operator
+- Used not to reverse logical results
+- Applied range checks using 45 <= age <= 55
+- Understood how logical evaluation order affects execution
+- Strengthened multi-condition decision logic
+
+------------------------------------------------------
+
+## Part 06 – Treasure Island Project
+
+### What I Learned in Practice
+- Built a complete nested decision-based game
+- Applied multiple levels of if/elif/else logic
+- Used .lower() to normalize user input
+- Controlled full program flow using branching
+- Structured clean and readable nested blocks
