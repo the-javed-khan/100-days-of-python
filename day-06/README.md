@@ -2,8 +2,6 @@
  
 --------------------------------------------------------
 
-# Day 06
-
 ## Part 01 – Functions & Hurdle Challenge
 
 ### What I Learned in Practice
