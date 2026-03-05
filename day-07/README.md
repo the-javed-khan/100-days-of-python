@@ -31,3 +31,14 @@
 - Rebuilt the display each turn without losing previous matches
 - Used "_" in display as the condition for continuing the loop
 - Triggered win condition once all blanks were filled
+
+--------------------------------------------------------
+
+## Part 04 – Hangman Step 4 (Lives & Stages)
+
+### What I Learned in Practice
+- Added a lives counter starting at 6
+- Decreased lives when guess was not in the word
+- Ended game when lives reached zero (lose condition)
+- Printed ASCII hangman stages using stages[lives]
+- Combined win and lose conditions in the main loop
