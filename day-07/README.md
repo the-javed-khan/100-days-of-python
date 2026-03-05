@@ -20,3 +20,14 @@
 - Compared guessed letter with each character
 - Revealed matching letters in correct positions
 - Maintained hidden letters using "_"
+
+--------------------------------------------------------
+
+## Part 03 – Hangman Step 3 (While Loop + Preserve Letters)
+
+### What I Learned in Practice
+- Used a while loop to continue the game until completion
+- Stored correct guesses in a list to preserve progress
+- Rebuilt the display each turn without losing previous matches
+- Used "_" in display as the condition for continuing the loop
+- Triggered win condition once all blanks were filled
