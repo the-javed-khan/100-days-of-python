@@ -42,3 +42,21 @@
 - Ended game when lives reached zero (lose condition)
 - Printed ASCII hangman stages using stages[lives]
 - Combined win and lose conditions in the main loop
+
+--------------------------------------------------------
+
+## Day 07 – Hangman Game
+
+### Part 05 – Hangman Final (Modules & Game Improvements)
+
+### What I Learned in Practice
+- Imported data from external Python modules
+- Used `word_list` from `hangman_words.py`
+- Used ASCII art stages from `hangman_art.py`
+- Printed game logo at the start of the program
+- Implemented tracking of guessed letters
+- Prevented life deduction on repeated guesses
+- Added feedback when a guessed letter is not in the word
+- Displayed remaining lives after each guess
+- Revealed the correct word when the player loses
+- Completed a fully playable command-line Hangman game
