@@ -11,3 +11,11 @@
 - Built the "Life in Weeks" exercise to calculate remaining weeks until age 90.
 
 -------------------------------------------------------------------------
+
+### Part 02 – Positional vs Keyword Arguments
+
+### What I Learned in Practice
+- Functions can accept multiple parameters.
+- Positional arguments assign values based on order.
+- Keyword arguments allow explicit parameter assignment.
+- Keyword arguments improve readability and avoid argument order mistakes.
