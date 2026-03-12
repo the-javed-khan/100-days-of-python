@@ -29,3 +29,7 @@
 - Learned to normalize text using `.lower()`.
 - Built a simple compatibility score by combining multiple calculations.
 - Improved understanding of string manipulation inside functions.
+
+--------------------------------------------------------------------------
+
+### Part 04 – Love Calculator Exercise
