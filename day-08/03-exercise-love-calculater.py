@@ -7,14 +7,13 @@ Practice functions with multiple inputs and string manipulation
 by calculating a compatibility score based on letter counts.
 """
 
-# =========================
+# ==============================
 # --- Lesson Theory Practice ---
-# =========================
+# ==============================
 
 # String methods used:
 # .lower()
 # .count()
-
 
 # ==========================
 # --- Lesson Application ---
