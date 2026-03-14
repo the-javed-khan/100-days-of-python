@@ -15,9 +15,9 @@ by calculating a compatibility score based on letter counts.
 # .lower()
 # .count()
 
-# ========================
-# - Lesson Application -
-# ========================
+# =========================
+# -- Lesson Application --
+# =========================
 
 def calculate_love_score(name1, name2):
     names = (name1 + name2).lower()
