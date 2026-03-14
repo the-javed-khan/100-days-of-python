@@ -33,7 +33,7 @@
 
 --------------------------------------------------------------------------
 
-### Part 04 – Project - Caesar Cipher
+### Part 04 – Project - Caesar Cipher (3 steps)
 
 ### What I Learned in Practice
 - Built a Caesar Cipher program step by step from encryption to full encode/decode support.
