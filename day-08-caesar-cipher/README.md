@@ -33,4 +33,11 @@
 
 --------------------------------------------------------------------------
 
-### Part 04 – Project - Caesar Cipher - Part-1
+### Part 04 – Project - Caesar Cipher
+
+### What I Learned in Practice
+- Built a Caesar Cipher program step by step from encryption to full encode/decode support.
+- Used modulo arithmetic to handle alphabet overflow when shifting letters.
+- Combined separate encrypt and decrypt logic into one reusable function.
+- Preserved spaces, symbols, and numbers instead of breaking the program.
+- Added a loop so the cipher program can run repeatedly until the user exits.
