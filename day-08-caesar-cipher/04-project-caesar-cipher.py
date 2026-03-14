@@ -86,7 +86,7 @@ while should_continue:
     text = input("Type your message:\n").lower()
     shift = int(input("Type the shift number:\n"))
 
-    # Normalize large shift values to stay within alphabet bounds.
+    # Normalize large shift values to stay within alphabet bounds
     shift = shift % 26
 
     caesar(original_text=text, shift_amount=shift, encode_decode=direction)
@@ -96,4 +96,3 @@ while should_continue:
     if restart == "no":
         should_continue = False
         print("Goodbye!")
-        
