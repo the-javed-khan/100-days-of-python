@@ -15,9 +15,9 @@ Project Progression Covered:
 - Allow the user to restart the program using a loop.
 """
 
-# ===========================
+# =============================
 # --- Lesson Theory Practice ---
-# ===========================
+# =============================
 
 # TODO-1:
 # Import and print the logo from art.py when the program starts.
