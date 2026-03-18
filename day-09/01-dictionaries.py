@@ -8,9 +8,9 @@ Learn how to create, retrieve, update, and loop through dictionaries.
 Apply the concept to a grading program exercise.
 """
 
-# =========================
+# ===========================
 # --- Lesson Practice ---
-# =========================
+# ===========================
 
 # Creating a dictionary
 colours = {
